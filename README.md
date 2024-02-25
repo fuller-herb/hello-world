@@ -5,3 +5,5 @@ This is an example repository for the Git tutorial
 This is done step by step from the website
 
 Time to learn about pull requests!
+
+Testing 1...2...3
